@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umut PAMUK</h1>
 <h3 align="center">I'm developing with PHP, Laravel, Codeigniter, MySQL, HTML, CSS, JQUERY.</h3>
 
-- 👨‍💻 As a Full Stack developer, the startup project I took part in [OneNewOne](https://onenewone.com/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umutpamuk59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutpamuk59" height="30" width="40" /></a>
